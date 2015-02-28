@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/gnudeep/carbon4-kernel.svg?branch=master)](https://travis-ci.org/gnudeep/carbon4-kernel)
+
 #WSO2 Carbon Kernel
 
 WSO2 Carbon redefines middleware by providing an integrated and componentized middleware platform that adapts to the specific needs of any enterprise IT project - on premise or in the cloud. 100% open source and standards-based, WSO2 Carbon enables developers to rapidly orchestrate business processes, compose applications and develop services using WSO2 Developer Studio and a broad range of business and technical services that integrate with legacy, packaged and SaaS applications.
